@@ -4,7 +4,6 @@
 ## Write a short comment describing this function
 ## There are 2 functions
 ## 1. makeCacheMatrix consists of set,get
-## 2. 
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
